@@ -1,2 +1,2 @@
 # CursoUdemyMachineLearning
-Ejercicios del curso
+Ejercicios del curso de Machine Learning de Udemy
