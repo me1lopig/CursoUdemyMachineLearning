@@ -1,1 +1,1 @@
-print("hola")
+dataset=read.csv("Data.csv")
